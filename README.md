@@ -1,1 +1,1 @@
-NURE-Java-SE-laboratoty-works-2018
+NURE Java laboratory work, 2018, KIUKIu

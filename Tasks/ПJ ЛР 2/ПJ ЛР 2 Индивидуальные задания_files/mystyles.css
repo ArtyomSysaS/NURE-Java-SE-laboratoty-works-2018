@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.opr {
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+	font-size: 16px;
+	background-color: #CCCCCC;
+}
+.labtext {
+	font-family:"Times New Roman", Times, serif;
+	font-size: 13pt;
+}
+td {
+	font-family::Verdana, Geneva, sans-serif;
+	font-size::12px;
+}
+ol {
+    list-style-type: decimal;
+}
+h1 {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:18px;
+	text-align:center;
+}
+h2 {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	text-align:left;
+	
+}
+h3 {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	text-align:left;
+}
+h4 {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+	text-align:center;
+}
+h5 {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+	text-align:left;
+}
+.code_block { 
+	border:solid 1px #336699;;
+ 	display:none;
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Students>
+    <Student age="20" class="КИУКИУ-17-10" fio="Сыса Артём Сергеевич">
+        <Marks>
+            <Mark subject="СПЗ" value="92"/>
+            <Mark subject="СПЗ" value="95"/>
+            <Mark subject="ПJ" value="17"/>
+            <Mark subject="ПJ" value="17"/>
+            <Mark subject="АК" value="10"/>
+            <Mark subject="АК" value="9"/>
+            <Mark subject="АК" value="8"/>
+            <Mark subject="ИТех" value="14"/>
+            <Mark subject="ИТех" value="14"/>
+            <Mark subject="СУБД" value="10"/>
+        </Marks>
+    </Student>
+    <Student age="20" class="КИУКИУ-17-10" fio="Коткова Оксана Николаевна">
+        <Marks>
+            <Mark subject="СПЗ" value="94"/>
+            <Mark subject="ПJ" value="17"/>
+            <Mark subject="СУБД" value="94"/>
+            <Mark subject="10" value="17"/>
+        </Marks>
+    </Student>
+    <Student age="20" class="unknown" fio="Цубера Светлана Сергеевна"/>
+</Students>
+<?xml version="1.0" ?><Categories><Category name="Асторовые"><Flower name="Астра" type="Двудольные"></Flower><Flower name="Астра Альпийская" type="Двудольные"></Flower></Category><Category name="Шиповники"><Flower name="Роза" type="Красная"></Flower><Flower name="Шиповник" type="Собачий"></Flower></Category><Category name="Лилейные"><Flower name="Лилия" type="Белоснежная"></Flower><Flower name="Лилия" type="Чёрные"></Flower></Category></Categories><?xml version="1.0" ?><Categories><Category name="Асторовые"><Flower name="Астра" type="Двудольные"></Flower><Flower name="Астра Альпийская" type="Двудольные"></Flower></Category><Category name="Шиповники"><Flower name="Роза" type="Красная"></Flower><Flower name="Шиповник" type="Собачий"></Flower></Category><Category name="Лилейные"><Flower name="Лилия" type="Белоснежная"></Flower><Flower name="Лилия" type="Чёрные"></Flower></Category></Categories>
